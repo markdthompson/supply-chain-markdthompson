@@ -60,7 +60,7 @@ contract SupplyChain {
     } 
 
     modifier paidEnough(uint _price) { 
-        require(msg.value >= _price, " value must be greater than or equal to price."); 
+        require(msg.value >= _price, "value must be greater than or equal to price."); 
         _;
     }
 
@@ -164,7 +164,4 @@ contract SupplyChain {
 
         return (name, sku, price, state, seller, buyer);
     }
-
-    function () public payable {}
-
 }
