@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/markdthompson/supply-chain-markdthompson.svg?branch=master)](https://travis-ci.org/markdthompson/supply-chain-markdthompson)
+
 # Supply Chain Exercise
 
 The Supply Chain directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SupplyChain.sol contract and write some test in Solidity.
@@ -13,3 +15,4 @@ If your tests do not pass, modify the contract, recompile, redeploy and retest. 
 ## A note on testing
 
 Check out the testing files to see how tests are implemented in Javascript. We will go over the details of implementing tests later in the course.
+[![Build Status](https://travis-ci.org/markdthompson/supply-chain-markdthompson.svg?branch=master)](https://travis-ci.org/markdthompson/supply-chain-markdthompson)
