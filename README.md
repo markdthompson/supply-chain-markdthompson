@@ -15,4 +15,3 @@ If your tests do not pass, modify the contract, recompile, redeploy and retest. 
 ## A note on testing
 
 Check out the testing files to see how tests are implemented in Javascript. We will go over the details of implementing tests later in the course.
-[![Build Status](https://travis-ci.org/markdthompson/supply-chain-markdthompson.svg?branch=master)](https://travis-ci.org/markdthompson/supply-chain-markdthompson)
